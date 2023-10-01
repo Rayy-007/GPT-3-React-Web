@@ -20,7 +20,9 @@ body {
 a {
   color: unset;
   text-decoration: none;
+  cursor: pointer;
 }
+
 button {
   cursor: pointer;
 }
